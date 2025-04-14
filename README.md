@@ -5,8 +5,7 @@ Este projeto tem como objetivo a criação de um **dashboard dinâmico** no Micr
 
 ## 📁 Arquivos
 
-- `dashboard.xlsx`: base de dados original fornecida.
-- `dashboard_dinamico.xlsx`: (a ser gerado) versão com dashboard interativo baseado em tabelas dinâmicas e gráficos dinâmicos.
+- `DashboardXbox.xlsx`: base de dados original fornecida.
 - `README.md`: este arquivo de documentação.
 
 ## 🧩 Funcionalidades do Dashboard
@@ -49,4 +48,4 @@ Este projeto tem caráter **educacional**, com o objetivo de praticar a criaçã
 
 ---
 
-Criado com 💡 por [Seu Nome]
+Reproduzido por: Sérgio Alexandre
